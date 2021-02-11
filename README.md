@@ -1,5 +1,5 @@
-# Lab # 1 - IETI
-# 1.1 React JS Intro
+# Lab # 2 - IETI
+# 1.2 React Material
 
 
 ### Pre-requisitos 📋
@@ -14,7 +14,7 @@
 1. Clonar el repositorio
 
 ```
-git clone https://github.com/sebastianfrasic/IETI-Lab1.git
+git clone https://github.com/sebastianfrasic/IETI-Lab2.git
 ```
 
 
@@ -29,6 +29,10 @@ npm install
 npm start
 ```
 
+3. Para el login las credenciales son las siguientes:
+
+**Username:** juan.frasica@mail.escuelaing.edu.co
+**Password:** 1234
 
 
 
